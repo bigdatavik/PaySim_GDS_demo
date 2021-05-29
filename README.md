@@ -6,5 +6,7 @@ This demo is built to work with a PaySim dataset generated from @voutilad's [Pay
 
 You can also use this [dump](https://drive.google.com/file/d/1SXXEiFdpCJT4DGumFoojUz4NVWg8id4a/view?usp=sharing)
 
-Playguide to run the demo in Neo4j is:  :play https://dsneo4jtraining.s3-us-west-2.amazonaws.com/paysimgartner/index.html
+Playguide to run the demo in Neo4j is  :play https://dsneo4jtraining.s3-us-west-2.amazonaws.com/paysimgartner/index.html
+also add browser.remote_content_hostname_whitelist=* to the neo4j.conf file before running the playguide
+
 
