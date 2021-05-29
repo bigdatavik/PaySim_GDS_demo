@@ -6,3 +6,5 @@ This demo is built to work with a PaySim dataset generated from @voutilad's [Pay
 
 You can also use this [dump](https://drive.google.com/file/d/1SXXEiFdpCJT4DGumFoojUz4NVWg8id4a/view?usp=sharing)
 
+Playguide to run the demo in Neo4j is:  :play https://dsneo4jtraining.s3-us-west-2.amazonaws.com/paysimgartner/index.html
+
